@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "성장",
+  "tooltip.mcjadecrops.crop.mature": "성숙함",
+  "config.mcjadecrops.enabled": "작물 성장 툴팁 활성화",
+  "config.mcjadecrops.debug_logging": "지원되지 않는 MineColonies 블록 기록",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies 작물 성장"
+}

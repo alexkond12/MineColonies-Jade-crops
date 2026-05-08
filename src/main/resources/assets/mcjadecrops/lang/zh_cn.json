@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "生长",
+  "tooltip.mcjadecrops.crop.mature": "已成熟",
+  "config.mcjadecrops.enabled": "启用作物生长提示",
+  "config.mcjadecrops.debug_logging": "记录不受支持的 MineColonies 方块",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies 作物生长"
+}

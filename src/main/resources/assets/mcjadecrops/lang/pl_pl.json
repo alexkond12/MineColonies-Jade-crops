@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Wzrost",
+  "tooltip.mcjadecrops.crop.mature": "Dojrzałe",
+  "config.mcjadecrops.enabled": "Włącz informacje o wzroście roślin",
+  "config.mcjadecrops.debug_logging": "Loguj nieobsługiwane bloki MineColonies",
+  "config.jade.plugin_mcjadecrops.crop_stage": "Wzrost upraw MineColonies"
+}

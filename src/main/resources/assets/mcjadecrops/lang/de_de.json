@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Wachstum",
+  "tooltip.mcjadecrops.crop.mature": "Ausgereift",
+  "config.mcjadecrops.enabled": "Anzeige des Pflanzenwachstums aktivieren",
+  "config.mcjadecrops.debug_logging": "Nicht unterstützte MineColonies-Blöcke protokollieren",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies Pflanzenwachstum"
+}

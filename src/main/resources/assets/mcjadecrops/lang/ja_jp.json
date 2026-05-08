@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "成長",
+  "tooltip.mcjadecrops.crop.mature": "成熟済み",
+  "config.mcjadecrops.enabled": "作物成長ツールチップを有効化",
+  "config.mcjadecrops.debug_logging": "未対応のMineColoniesブロックを記録",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies 作物成長"
+}

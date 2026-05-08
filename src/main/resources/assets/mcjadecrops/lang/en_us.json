@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Growth",
+  "tooltip.mcjadecrops.crop.mature": "Mature",
+  "config.mcjadecrops.enabled": "Enable crop stage tooltip",
+  "config.mcjadecrops.debug_logging": "Log unsupported MineColonies blocks",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies crop stage"
+}

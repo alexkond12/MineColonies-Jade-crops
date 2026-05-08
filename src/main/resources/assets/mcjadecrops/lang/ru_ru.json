@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Рост",
+  "tooltip.mcjadecrops.crop.mature": "Созревший",
+  "config.mcjadecrops.enabled": "Включить отображение стадии роста",
+  "config.mcjadecrops.debug_logging": "Логировать неподдерживаемые блоки MineColonies",
+  "config.jade.plugin_mcjadecrops.crop_stage": "Стадия роста культур MineColonies"
+}

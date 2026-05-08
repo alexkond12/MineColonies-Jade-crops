@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Crecimiento",
+  "tooltip.mcjadecrops.crop.mature": "Maduro",
+  "config.mcjadecrops.enabled": "Activar información de crecimiento",
+  "config.mcjadecrops.debug_logging": "Registrar bloques MineColonies no compatibles",
+  "config.jade.plugin_mcjadecrops.crop_stage": "Crecimiento de cultivos MineColonies"
+}

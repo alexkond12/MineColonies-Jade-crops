@@ -1,0 +1,7 @@
+{
+  "tooltip.mcjadecrops.crop.growth": "Groei",
+  "tooltip.mcjadecrops.crop.mature": "Volgroeid",
+  "config.mcjadecrops.enabled": "Gewasgroei-tooltip inschakelen",
+  "config.mcjadecrops.debug_logging": "Niet-ondersteunde MineColonies-blokken loggen",
+  "config.jade.plugin_mcjadecrops.crop_stage": "MineColonies gewasgroei"
+}
