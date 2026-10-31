@@ -1,14 +1,14 @@
 package com.alexkond12.mcjadecrops.common.config;
 
-import net.neoforged.neoforge.common.ModConfigSpec;
+import net.minecraftforge.common.ForgeConfigSpec;
 
 public final class McJadeCropsConfig {
-    public static final ModConfigSpec SPEC;
-    public static final ModConfigSpec.BooleanValue ENABLED;
-    public static final ModConfigSpec.BooleanValue DEBUG_LOGGING;
+    public static final ForgeConfigSpec SPEC;
+    public static final ForgeConfigSpec.BooleanValue ENABLED;
+    public static final ForgeConfigSpec.BooleanValue DEBUG_LOGGING;
 
     static {
-        ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
+        ForgeConfigSpec.Builder builder = new ForgeConfigSpec.Builder();
 
         ENABLED = builder
                 .comment("Enable the Jade tooltip integration for MineColonies crops.")
